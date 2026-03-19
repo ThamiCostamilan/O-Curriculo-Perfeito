@@ -13,9 +13,9 @@ Separei algumas dicas de como montar um currículo que traga muitas oportunidade
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## 📌 1. A primeira impressão é TUDO
+## 📌 1. A primeira impressão é TUDO  
 
-Observando publicações de recrutadores, consegui perceber que eles tem uma média de 5 a 10 segundos pra decidir se continuam lendo seu currículo.
+Observando publicações de recrutadores, consegui perceber que eles tem uma média de 5 a 10 segundos pra decidir se continuam lendo seu currículo.  
 
 Ou seja: Se o topo não for impactante… já era.  
 
@@ -29,7 +29,7 @@ Exemplo:
 
 Thamiris Costamilan | QA com Foco em Testes Manuais e Automação  
 
-Profissional com experiência em suporte técnico e Qualidade de Software, com forte atenção a detalhes e foco em qualidade. Experiência com testes manuais, validação de sistemas web e início em automação com Cypress.
+Profissional com experiência em suporte técnico e Qualidade de Software, com forte atenção a detalhes e foco em qualidade. Experiência com testes manuais, validação de sistemas web e início em automação com Cypress.  
 
 🏆 Dica de ouro:  
 Não fale o que você **quer**. Fale o que você **entrega**.  
@@ -104,7 +104,7 @@ Evite o erro mais comum:
 
 E prefira:  
 
-Habilidades:
+Habilidades:  
 - Testes manuais  
 - Cypress (básico)  
 - Postman  
@@ -165,7 +165,7 @@ Ter um currículo muito extenso, **cheio** de informações que são irrelevante
 
 Alguns exemplos importantes:  
 
-🔸  Objetivo genérico (ex: "Busco uma oportunidade..."). [Fraco, fraco, fraco, não pode!]
+🔸  Objetivo genérico (ex: "Busco uma oportunidade..."). [Fraco, fraco, fraco, não pode!]  
 🔸  Informações irrelevantes (CPF, RG, estado civil). [O que é preciso saber realmente: seu nome, número de contato e onde você mora (Cidade/Estado)]  
 🔸  Textos gigantes. [zZz]  
 🔸  Mentiras (isso te derruba na entrevista e não tem volta mais)  
@@ -178,9 +178,9 @@ Alguns exemplos importantes:
 Beleza não faz a menor diferença (infelizmente, adoro um rosinha em docs), o que conta é a objetividade e a forma mais limpa de poder ver isso.  
 Logo, seu currículo deve ser:  
 
-🔸 Limpo
-🔸 Organizado
-🔸 Fácil de ler
+🔸 Limpo  
+🔸 Organizado  
+🔸 Fácil de ler  
 
 🏆 Dicas:  
 
